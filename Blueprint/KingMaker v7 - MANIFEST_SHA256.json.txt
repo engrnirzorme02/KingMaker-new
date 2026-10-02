@@ -1,0 +1,85 @@
+{
+  "version": "7.0.0",
+  "files": [
+    {
+      "file": "00_CANONICAL_MASTER_BLUEPRINT.md",
+      "bytes": 14424,
+      "sha256": "2d7326ad76a13a25433c552dcfeb0f1692dfecfda0cf764b4cdc8d9f654476b5"
+    },
+    {
+      "file": "00_RECONCILIATION_AUDIT.md",
+      "bytes": 4899,
+      "sha256": "d47500058ac0904d91866439c096f8668ce0a152310b3132f23e17d92b3a2c0e"
+    },
+    {
+      "file": "01_Product_Requirements.md",
+      "bytes": 4644,
+      "sha256": "c47fee9b3591e5176854167ed6e02bb3423f6300387c97b57d7739013d687590"
+    },
+    {
+      "file": "02_ADR_Log.md",
+      "bytes": 5080,
+      "sha256": "bf94965e29d2b5f474f3f57cbb2110354c0cd4ceac1898a6d0f43384244eb094"
+    },
+    {
+      "file": "03_Architecture.md",
+      "bytes": 4081,
+      "sha256": "1f12158ea486a8a63d6596ab7f18c0f0f4a828b64dc93c6090d3ccd4d9f6dfcd"
+    },
+    {
+      "file": "04_Domain.md",
+      "bytes": 5572,
+      "sha256": "974084f33734072311458ab6fe2ff6af596bd3ed7d341bdef2b20d5af4f2a941"
+    },
+    {
+      "file": "05_Database_Schema.md",
+      "bytes": 4325,
+      "sha256": "dd883f9164d9a8ed4763da9bc5343097f91ece4de41a2fa73b1221803ef2e5e5"
+    },
+    {
+      "file": "06_API_Event_Contract.md",
+      "bytes": 3445,
+      "sha256": "6cae1702b795262998c6b038c01eab9593411392acfb5d754af8389efeed6d2e"
+    },
+    {
+      "file": "07_AI_Execution.md",
+      "bytes": 4503,
+      "sha256": "0d31a2b1b0896f114dbe36c91902ce5713c0bf78f0ddd53b45af3e483e58a00a"
+    },
+    {
+      "file": "08_Policy_Quality.md",
+      "bytes": 6082,
+      "sha256": "af659cf60c714ce077fa57d262f2e349c6385f0bbdae330706a27f21ee644abc"
+    },
+    {
+      "file": "09_UX_UI.md",
+      "bytes": 3945,
+      "sha256": "915972430d817117bcfbffab3ef1bae178260ed4a3a4516688c05c3a2cb0b799"
+    },
+    {
+      "file": "10_Android_Engineering.md",
+      "bytes": 3024,
+      "sha256": "30c9511aa46abec7c94a5fd17392cc9febd9325d4fbb0595ffdb3a9c9808d5a8"
+    },
+    {
+      "file": "11_Security_Operations_Cost.md",
+      "bytes": 3485,
+      "sha256": "337f36521321d091c0e2538d90c3ab77a0f50813f1ce7dbd71b4ea4facbe942f"
+    },
+    {
+      "file": "12_Testing_Acceptance.md",
+      "bytes": 3658,
+      "sha256": "207197cd89b4455cbfeb1cd2932e29a6b1c54c24f067f09054e19f39cce14b60"
+    },
+    {
+      "file": "13_Implementation_Plan.md",
+      "bytes": 4727,
+      "sha256": "3d8afcd63b852f6bff6590b31b55444dfb420c47e421086f111d5d7535bd136c"
+    },
+    {
+      "file": "README.md",
+      "bytes": 1608,
+      "sha256": "9d1c2b5e1ff1700a3b75dce876cf162a00311e998c19528955dffa10552ab2c1"
+    }
+  ]
+}
